@@ -1,5 +1,4 @@
 <h1 align="center">Hey, I'm Purnima Kumar 👋</h1>
-<hr />
 
 - 🎓 I’m a final year student at Delhi University pusuing BSc.(Hons.) Computer Science
 - 👩‍💻 I recently completed a Responsive Web Developement Course Using HMTL & CSS, check out my code : **https://github.com/purnimakumarr/html-css-course**

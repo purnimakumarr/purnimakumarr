@@ -1,4 +1,4 @@
-# Hey, I'm Purnima Kumar 👋
+## Hey, I'm Purnima Kumar 👋
 
 <hr />
 

@@ -1,4 +1,4 @@
-###Hey, I'm Purnima Kumar 👋
+### Hey, I'm Purnima Kumar 👋
 
 - 🎓 I’m a final year student at Delhi University pusuing BSc.(Hons.) Computer Science
 

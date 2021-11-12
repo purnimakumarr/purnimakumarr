@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Purnima Kumar 👋</h1>
+###Hey, I'm Purnima Kumar 👋
 
 - 🎓 I’m a final year student at Delhi University pusuing BSc.(Hons.) Computer Science
 

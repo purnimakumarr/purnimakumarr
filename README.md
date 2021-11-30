@@ -12,7 +12,7 @@
 
 - 🔗 My social links : **https://linktr.ee/purnimakumar**
 
-- 💌 Mail me : **purnimakumar2021@gmail.com**
+- 💌 Mail me : [**Mail ID**](purnimakumar2021@gmail.com)
 
 <hr />
 

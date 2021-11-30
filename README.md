@@ -1,7 +1,5 @@
 # Purnima Kumar 👩‍💻
 
-<a href="https://linktr.ee/purnimakumar" class="button primary">Social Links</a>
-
 - 🎓 I’m a final year student at Delhi University pusuing BSc.(Hons.) Computer Science.
 
 - 🚀 Check out my online portfolio :-

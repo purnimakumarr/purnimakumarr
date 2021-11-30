@@ -1,16 +1,21 @@
-### Hey, I'm Purnima 👋
+# Purnima Kumar 👩‍💻
 
-<hr />
+<a href="https://linktr.ee/purnimakumar" style="color: #fff;
+background-color: #12b886;
+padding: 9px 18px;
+font-size: 18px;
+font-family: sans-serif;
+font-weight: 500;
+text-decoration: none;
+border-radius: 1.5px;">Social Links</a>
 
 - 🎓 I’m a final year student at Delhi University pusuing BSc.(Hons.) Computer Science.
 
-- 🚀 Check out my portfolio : **https://purnimakumarr.github.io**
+- 🚀 Check out my online portfolio : [**View site**](https://purnimakumarr.github.io) [**View code**](https://github.com/purnimakumarr/purnimakumarr.github.io)
 
-- 👩‍💻 I recently completed a Responsive Web Developement Course Using HMTL & CSS, check out my code : **https://github.com/purnimakumarr/html-css-course**
+- 👩‍💻 I recently completed a Responsive Web Developement Course Using HMTL & CSS : [**View code**](https://github.com/purnimakumarr/html-css-course)
 
-- 👉 A recent website that I build: **https://omnifood-purnima.netlify.app**
-
-- 🔗 My social links : **https://linktr.ee/purnimakumar**
+- 👉 Omnifood Website - Never Cook Again!: [**View site**](https://omnifood-purnima.netlify.app)
 
 - 💌 Mail me : [**Purnima Kumar**](mailto:purnimakumar2021@gmail.com)
 

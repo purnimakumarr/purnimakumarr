@@ -11,3 +11,5 @@
 - 💌 Mail me : [**Purnima Kumar's Mail ID**](mailto:purnimakumar2021@gmail.com)
 
 - 🔗 Say hi : [**Social Links**](https://linktr.ee/purnimakumar)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purnimakumarr&layout=compact&langs_count=4&theme=cobalt"/>

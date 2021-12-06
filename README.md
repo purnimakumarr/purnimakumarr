@@ -12,4 +12,6 @@
 
 - 🔗 Say hi : [**Social Links**](https://linktr.ee/purnimakumar)
 
+<br />
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purnimakumarr&layout=compact&langs_count=4&theme=cobalt"/>

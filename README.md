@@ -19,4 +19,4 @@ I'm a self-taught Front End Developer & school-taught C++ Developer from Delhi, 
 
 # GitHub Stats
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purnimakumarr&layout=compact&langs_count=4&theme=vision-friendly-dark&card_width=300em"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purnimakumarr&layout=compact&theme=vision-friendly-dark&card_width=300em"/>

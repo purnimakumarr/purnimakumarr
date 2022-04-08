@@ -1,7 +1,7 @@
 # Purnima Kumar 👩‍💻
 
 [![Social Links](https://img.shields.io/badge/-Social%20Links-222222?style=flat-square&logo=linktree&color=blue&&link=https://linktr.ee/purnimakumar)](https://linktr.ee/purnimakumar) 
-[![Mail me](https://img.shields.io/badge/-Mail%20me-222222?style=flat-square&logo=gmail&color=green&&link=mailto:purnimakumar2021@gmail.com)](mailto:purnimakumar2021@gmail.com)
+[![Mail me](https://img.shields.io/badge/-Mail%20me-222222?style=flat-square&logo=gmail&color=green&&link=mailto:purnimakumarr@gmail.com)](mailto:purnimakumar2021@gmail.com)
 [![My Portfolio](https://img.shields.io/badge/-My%20Portfolio-222222?style=flat-square&color=gray&&link=https://purnimakumarr.github.io)](https://purnimakumarr.github.io)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&color=purple&logo=linkedin&&link=https://www.linkedin.com/in/purnima-kumar-b024aa21b)](https://www.linkedin.com/in/purnima-kumar-b024aa21b)
 

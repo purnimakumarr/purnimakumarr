@@ -42,4 +42,4 @@ I'm a Front End Developer and C++ Programmer from New Delhi, India. I build webs
 
 # GitHub Stats
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purnimakumarr&layout=compact&theme=algolia&card_width=300em"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purnimakumarr&langs_count=8&hide=jupyter%20%notebook&layout=compact&theme=algolia&card_width=300em"/>

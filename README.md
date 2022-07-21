@@ -16,6 +16,8 @@ I'm a Front End Developer and C++ Programmer from New Delhi, India. I build webs
 
 - 🔗 Generate tints/shades for a color with this web page I build : [**Lighten/Darken Color**](https://purnimakumarr.github.io/lighten-darken-color/)
 
+![](https://komarev.com/ghpvc/?username=purnimakumarr&color=bc6c25&style=flat-square&label=PROFILE%20VIEWS)
+
 <br />
 
 # GitHub Stats

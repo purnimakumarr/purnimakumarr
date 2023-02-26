@@ -23,6 +23,6 @@ I'm a Computer Science Graduate from Delhi University (2019-2022). Currently, I'
 <h1 align="center"> GitHub Stats</h1>
 
 <div style="display: flex; gap: 24px; justify-content: space-between">
-  <img style="height: 200px" class="img" src="https://github-readme-stats.vercel.app/api?username=purnimakumarr&theme=swift&card_width=500em&show_icons=true&count_private=true&include_all_commits=true" />
-  <img style="height: 200px" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purnimakumarr&langs_count=8&hide=jupyter%20%notebook&layout=compact&theme=swift&card_width=500em" />
+  <img style="height: 200px" class="img" src="https://github-readme-stats.vercel.app/api?username=purnimakumarr&theme=swift&card_width=400em&show_icons=true&count_private=true&include_all_commits=true" />
+  <img style="height: 200px" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purnimakumarr&langs_count=8&hide=jupyter%20%notebook&layout=compact&theme=swift&card_width=380em" />
 </div>

@@ -1,28 +1,18 @@
-<h1 align="center">Purnima Kumar 👩‍💻</h1>
+# Purnima Kumar 👩‍💻
 
-[![My Portfolio](https://img.shields.io/badge/-My%20Portfolio-222222?style=flat-square&color=purple&&link=https://purnimakumarr.github.io)](https://purnimakumarr.github.io)
-[![Social Links](https://img.shields.io/badge/-Social%20Links-222222?style=flat-square&logo=linktree&color=darkgreen&&link=https://linktr.ee/purnimakumar)](https://linktr.ee/purnimakumar)
-[![Mail me](https://img.shields.io/badge/-CodePen%20-222222?style=flat-square&logo=codepen&color=black&&link=https://codepen.io/purnimakumar)](https://codepen.io/purnimakumar)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&color=blue&logo=linkedin&&link=https://www.linkedin.com/in/purnima-kumar-b024aa21b)](https://www.linkedin.com/in/purnima-kumar-b024aa21b)
-[![GoodReads](https://img.shields.io/badge/-GoodReads-222222?style=flat-square&logo=goodreads&color=brown&&link=https://www.goodreads.com/user/show/111237956-purnima-kumar)](https://www.goodreads.com/user/show/111237956-purnima-kumar)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/purnimakumarr)](https://twitter.com/purnimakumarr)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/purnimakumarr)](https://www.linkedin.com/in/purnimakumarr)
+[![Medium](https://img.shields.io/badge/-Medium-222222?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@purnimakumarr)](https://medium.com/@purnimakumarr)
+[![Goodreads](https://img.shields.io/badge/-Goodreads-222222?style=flat-square&logo=goodreads&logoColor=white&link=https://www.goodreads.com/user/show/111237956-purnima-kumar)](https://www.goodreads.com/user/show/111237956-purnima-kumar)
 
-I'm a Computer Science Graduate from Delhi University (2019-2022). Currently, I'm working as a Front-end Developer at DeepThought Edutech Ventures. Apart from coding, I love reading and writing. Connect with me to have a chat about technology or books!
+👩‍🎓 Pursuing Masters in Computer Science at University of Delhi & starting my research journey.
 
-### My Tech Stack
+## More about me
 
-- HTML/CSS
-- JavaScript
-- Bootstrap
-- jQuery
-- C++
-
-👩‍💻 See some awesome code I wrote while learning Web designing & development : [**View code**](https://github.com/purnimakumarr/html-css-course)
-
-<br />
-
-<h1 align="center"> GitHub Stats</h1>
-
-<div style="display: flex; gap: 24px; justify-content: space-between">
-  <img style="height: 200px" class="img" src="https://github-readme-stats.vercel.app/api?username=purnimakumarr&theme=swift&card_width=250em&show_icons=true&count_private=true&include_all_commits=true" />
-  <img style="height: 200px" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purnimakumarr&langs_count=8&hide=jupyter%20%notebook&layout=compact&theme=swift&card_width=350em" />
-</div>
+- 🌱 **Interest Areas:** Algorithms, Machine Learning, Network Science
+- 🤔 **Ask Me About:** Tech, Books, Algorithms, Mathematics 
+- 👩‍💻 **Languages:** HTML, CSS, JavaScript, C++, Python, Java
+- ⚙️ **Libraries/Framework:** React, Bootstrap, jQuery
+- 🔨 **Tools:** VSCode, Git, GitHub
+- 💼 **Experience:** Software Development, Front-end Web Development
+- ❤️ **Hobbies:** Reading, Crocheting, Creative Writing

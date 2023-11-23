@@ -5,7 +5,8 @@
 [![Medium](https://img.shields.io/badge/-Medium-222222?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@purnimakumarr)](https://medium.com/@purnimakumarr)
 [![Goodreads](https://img.shields.io/badge/-Goodreads-222222?style=flat-square&logo=goodreads&logoColor=white&link=https://www.goodreads.com/user/show/111237956-purnima-kumar)](https://www.goodreads.com/user/show/111237956-purnima-kumar)
 
-👩‍🎓 Pursuing Masters in Computer Science at University of Delhi & starting my research journey.
+👩‍🎓 Pursuing Master's in Computer Science at University of Delhi, Delhi, India. 
+A humble human being who's passionate about Computer Science and Mathematics. And interested in the Education space. In spare time, I love to read books, journal, and learn about psychology.
 
 ## More about me
 

@@ -6,9 +6,7 @@
 [![Goodreads](https://img.shields.io/badge/-Goodreads-222222?style=flat-square&logo=goodreads&logoColor=white&link=https://www.goodreads.com/user/show/111237956-purnima-kumar)](https://www.goodreads.com/user/show/111237956-purnima-kumar)
 
 # About Me
-👾 Doing some Computer Vision research.
-
-## Education
+👾 Doing some Computer Vision research.  
 MSc. Computer Science (2023-2025), University of Delhi
 
 ## Skills
